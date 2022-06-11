@@ -1,1 +1,4 @@
 git pull
+
+## or
+git pull origin master
