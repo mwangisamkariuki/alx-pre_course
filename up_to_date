@@ -1,2 +1,2 @@
-git status
+git pull
 git pull origin master
